@@ -21,7 +21,7 @@ body {
 }
 
 h3, input, button, #output {
-  margin-bottom: 20px; /* Add some spacing between elements */
+  margin-bottom: 10px; /* Add some spacing between elements */
 }
 
 #intervalsInput, #submit #output {
